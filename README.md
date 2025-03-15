@@ -10,15 +10,11 @@ El **Sistema UNI-Adviser** es una plataforma diseñada para brindar recomendacio
 
 - **Recomendaciones de Profesores:** Los estudiantes pueden calificar a sus profesores, y el sistema utiliza esa información para recomendar profesores en futuros cursos, considerando el estilo de enseñanza que mejor se adapta a sus necesidades.
 
-- **Foro de Estudiantes:** Un espacio de discusión donde los estudiantes pueden interactuar, compartir recursos y apoyarse mutuamente. El chatbot del sistema modera el foro, respondiendo preguntas frecuentes y proporcionando información útil.
-
 - **Planificación de Carrera:** Herramienta que ayuda a los estudiantes a visualizar su plan de estudios a largo plazo, incluyendo opciones de especialización, cursos electivos y programas de intercambio académico.
 
 - **Seguimiento del Progreso Académico:** Visualizaciones gráficas que muestran el progreso del estudiante, resaltando tanto sus logros como áreas de mejora para ayudar a mantenerse en el camino correcto.
 
 - **Recursos de Salud Mental:** Enlaces a servicios de apoyo psicológico y bienestar, asegurando que los estudiantes reciban la ayuda que necesitan durante su trayecto académico.
-
-- **Gestión de Tareas con Priorización:** Funcionalidad de Kanban mejorada con la opción de priorizar tareas, establecer recordatorios y fechas límite, integrándose con calendarios como Google Calendar para una mejor organización.
 
 - **Recomendaciones de Eventos Universitarios:** Información sobre eventos académicos y extracurriculares, como conferencias, talleres y actividades relevantes para el estudiante, basadas en sus intereses.
 
