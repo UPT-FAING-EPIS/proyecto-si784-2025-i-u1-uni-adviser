@@ -12,14 +12,21 @@ El **Sistema UNI-Adviser** es una plataforma diseñada para brindar recomendacio
 
 - **Planificación de Carrera:** Herramienta que ayuda a los estudiantes a visualizar su plan de estudios a largo plazo, incluyendo opciones de especialización, cursos electivos y programas de intercambio académico.
 
-- **Seguimiento del Progreso Académico:** Visualizaciones gráficas que muestran el progreso del estudiante, resaltando tanto sus logros como áreas de mejora para ayudar a mantenerse en el camino correcto.
-
 - **Recursos de Salud Mental:** Enlaces a servicios de apoyo psicológico y bienestar, asegurando que los estudiantes reciban la ayuda que necesitan durante su trayecto académico.
 
 - **Recomendaciones de Eventos Universitarios:** Información sobre eventos académicos y extracurriculares, como conferencias, talleres y actividades relevantes para el estudiante, basadas en sus intereses.
+  
+- **Acceso mediante validación:** El sistema requerirá que los usuarios proporcionen recomendaciones previas como condición para acceder a la plataforma, asegurando así la reciprocidad en el intercambio de información.
+  
+- **Repositorio de sílabos:** La plataforma permitirá a los usuarios subir y descargar sílabos de cursos anteriores, facilitando el acceso a información oficial sobre el contenido de las materias.
+  
+- **Banco de consejos por curso:** El sistema almacenará y presentará recomendaciones específicas para cada asignatura, incluyendo métodos de estudio, recursos recomendados y dificultades comunes.
+  
+- **Perfiles de enseñanza de profesores:** La plataforma recopilará información sobre los estilos pedagógicos, métodos de evaluación y características particulares de los docentes para cada curso.
+  
+- **Autenticación por código universitario:** El acceso al sistema estará restringido a estudiantes verificados mediante sus códigos universitarios institucionales, garantizando que solo miembros de la comunidad académica puedan utilizar la plataforma.
 
 ## Objetivo
 
-El **Sistema UNI-Asesor** busca ofrecer una experiencia académica más organizada, personalizada y enriquecedora, con herramientas que apoyen el desarrollo académico, profesional y personal del estudiante, todo en un entorno intuitivo y de fácil acceso.
-
-La clave del éxito de este sistema radica en su integración con los sistemas académicos existentes, la precisión de las recomendaciones y la accesibilidad de las funcionalidades en una interfaz amigable y eficiente.
+El **Sistema UNI-Adviser** busca crear un repositorio estructurado de experiencias académicas previas, donde estudiantes puedan intercambiar recomendaciones, sílabos y consejos sobre cursos y profesores. Este sistema permitirá a los alumnos tomar decisiones mejor informadas sobre su trayectoria académica y prepararse adecuadamente para sus asignaturas.
+La clave del éxito de este sistema radica en la reciprocidad del intercambio de información entre estudiantes, la autenticidad de las experiencias compartidas mediante verificación por códigos universitarios, y la accesibilidad de estas recomendaciones a través de una interfaz simple y eficiente. El objetivo final es optimizar el desempeño académico mediante el aprovechamiento del conocimiento colectivo de la comunidad estudiantil.
