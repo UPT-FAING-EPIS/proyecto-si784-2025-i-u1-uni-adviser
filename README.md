@@ -1,32 +1,22 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ql3zNhp1)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18683975)
-# Sistema UNI-Adviser
-
-El **Sistema UNI-Adviser** es una plataforma diseñada para brindar recomendaciones personalizadas, gestionar el plan de estudios y ofrecer herramientas de organización con el objetivo de mejorar la experiencia académica del estudiante. Con un enfoque sólido en la integración y facilidad de uso, nuestro sistema se convierte en un asistente académico integral, ayudando a los estudiantes a alcanzar su máximo potencial de manera eficiente.
+# DataFiller
+**DataFiller** es una herramienta innovadora que facilita la generación de datos sintéticos realistas para pruebas y simulaciones. Su principal objetivo es ayudar a desarrolladores, testers y profesionales de bases de datos a obtener registros automáticos de alta calidad, ahorrando tiempo y garantizando la efectividad en las pruebas. Compatible con bases de datos SQL y NoSQL, DataFiller se adapta a diversas necesidades de generación de datos, ofreciendo análisis inteligente y múltiples formatos de exportación.
 
 ## Funcionalidades Principales
-
-- **Integración con el Sistema Académico:** El sistema se conecta directamente con el sistema académico de la universidad, permitiendo que la información de las calificaciones y el rendimiento del estudiante esté siempre actualizada y precisa, para ofrecer recomendaciones personalizadas y relevantes en tiempo real.
-
-- **Recomendaciones de Profesores:** Los estudiantes pueden calificar a sus profesores, y el sistema utiliza esa información para recomendar profesores en futuros cursos, considerando el estilo de enseñanza que mejor se adapta a sus necesidades.
-
-- **Planificación de Carrera:** Herramienta que ayuda a los estudiantes a visualizar su plan de estudios a largo plazo, incluyendo opciones de especialización, cursos electivos y programas de intercambio académico.
-
-- **Recursos de Salud Mental:** Enlaces a servicios de apoyo psicológico y bienestar, asegurando que los estudiantes reciban la ayuda que necesitan durante su trayecto académico.
-
-- **Recomendaciones de Eventos Universitarios:** Información sobre eventos académicos y extracurriculares, como conferencias, talleres y actividades relevantes para el estudiante, basadas en sus intereses.
+- **Generación Rápida de Registros:** Permite generar registros de manera instantánea, optimizando el tiempo de prueba y desarrollo al automatizar la creación de datos.
+- **Datos Realistas:** Los datos generados simulan información real, lo que permite obtener resultados más precisos y representativos durante las pruebas.
+- **Compatibilidad Universal:** Funciona perfectamente con bases de datos SQL y NoSQL, lo que garantiza su uso en una amplia variedad de proyectos y arquitecturas.
+- **Análisis Inteligente de Estructuras:** DataFiller detecta automáticamente la estructura de las tablas, facilitando la generación de registros adaptados a las necesidades específicas de cada base de datos.
+- **Exportación en Múltiples Formatos:** Ofrece diversas opciones para exportar los datos generados, incluyendo SQL y JSON, según las necesidades del proyecto.
   
-- **Acceso mediante validación:** El sistema requerirá que los usuarios proporcionen recomendaciones previas como condición para acceder a la plataforma, asegurando así la reciprocidad en el intercambio de información.
+- **Consultas Ilimitadas (Plan Premium):** Con el Plan Premium, se eliminan las restricciones en las consultas diarias, brindando mayor flexibilidad y rendimiento.
   
-- **Repositorio de sílabos:** La plataforma permitirá a los usuarios subir y descargar sílabos de cursos anteriores, facilitando el acceso a información oficial sobre el contenido de las materias.
+- **Datos Personalizados por Industria (Plan Premium):** DataFiller ofrece la opción de generar datos adaptados a diferentes sectores, como salud, finanzas, y comercio electrónico, garantizando la relevancia de los registros generados.
   
-- **Banco de consejos por curso:** El sistema almacenará y presentará recomendaciones específicas para cada asignatura, incluyendo métodos de estudio, recursos recomendados y dificultades comunes.
-  
-- **Perfiles de enseñanza de profesores:** La plataforma recopilará información sobre los estilos pedagógicos, métodos de evaluación y características particulares de los docentes para cada curso.
-  
-- **Autenticación por código universitario:** El acceso al sistema estará restringido a estudiantes verificados mediante sus códigos universitarios institucionales, garantizando que solo miembros de la comunidad académica puedan utilizar la plataforma.
+- **Soporte Prioritario (Plan Premium):** Los usuarios Premium tienen acceso a soporte prioritario, asegurando respuestas rápidas y soluciones efectivas para cualquier duda o inconveniente.
+
+- **Generación de Registros Ampliada (Plan Premium):** El Plan Premium permite generar un número considerablemente mayor de registros por tabla, ideal para proyectos más grandes y complejos.
 
 ## Objetivo
-
-El **Sistema UNI-Adviser** busca crear un repositorio estructurado de experiencias académicas previas, donde estudiantes puedan intercambiar recomendaciones, sílabos y consejos sobre cursos y profesores. Este sistema permitirá a los alumnos tomar decisiones mejor informadas sobre su trayectoria académica y prepararse adecuadamente para sus asignaturas.
-La clave del éxito de este sistema radica en la reciprocidad del intercambio de información entre estudiantes, la autenticidad de las experiencias compartidas mediante verificación por códigos universitarios, y la accesibilidad de estas recomendaciones a través de una interfaz simple y eficiente. El objetivo final es optimizar el desempeño académico mediante el aprovechamiento del conocimiento colectivo de la comunidad estudiantil.
+El **objetivo principal de DataFiller** es simplificar el proceso de generación de datos de prueba mediante una plataforma rápida, flexible y precisa. Facilitará el trabajo de desarrolladores y testers al proporcionar datos sintéticos realistas, lo que optimiza las pruebas y mejora la calidad de los proyectos. Además, la herramienta promueve la eficiencia, permitiendo ahorrar tiempo y reducir errores en las fases de desarrollo y pruebas de software. El enfoque integral de DataFiller, con análisis automático de estructuras y la opción de personalización según industria, lo convierte en una solución clave para proyectos que requieren datos realistas y confiables.
