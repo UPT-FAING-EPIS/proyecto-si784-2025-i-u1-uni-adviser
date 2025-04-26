@@ -20,12 +20,9 @@ jobs:
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.2'  # Puedes cambiar a la versión que uses
+          php-version: '8.2'
           extensions: mbstring, xml, ctype, iconv, intl, zip
           tools: composer
-
-      - name: Install dependencies
-        run: composer install --no-progress --no-suggest
 
       - name: Install SonarScanner
         run: |
